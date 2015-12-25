@@ -1,0 +1,22 @@
+{
+  "name": "rn.daterangepicker",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react-native": "^0.17.0"
+  },
+  "devDependencies": {
+    "babel-preset-react": "^6.3.13"
+  },
+  "main": "lib/index.js",
+  "keywords": [
+    "daterangepicker",
+    "mt-component"
+  ],
+  "author": "solome",
+  "license": "MIT",
+  "description": ""
+}
