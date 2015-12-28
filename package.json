@@ -1,7 +1,6 @@
 {
   "name": "rn.daterangepicker",
   "version": "0.0.1",
-  "private": true,
   "files": [
     "build",
     "lib"
