@@ -60,4 +60,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('RNDateRangePicker', () => RNDateRangePickerDemo);
+AppRegistry.registerComponent('RNDateRangePickerDemo', () => RNDateRangePickerDemo);

@@ -2,6 +2,10 @@
   "name": "rn.daterangepicker",
   "version": "0.0.1",
   "private": true,
+  "files": [
+    "build",
+    "lib"
+  ],
   "scripts": {
     "start": "react-native start"
   },
@@ -18,5 +22,5 @@
   ],
   "author": "solome",
   "license": "MIT",
-  "description": ""
+  "description": "React Native component: Date range picker."
 }
