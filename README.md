@@ -18,7 +18,7 @@
 
 ### Usage
 
-```
+```js
 import RNDateRangePicker from 'rn.daterangepicker';
 
 const RNDateRangePickerIOS = RNDateRangePicker.RNDateRangePickerIOS;
