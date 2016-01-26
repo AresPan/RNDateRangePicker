@@ -32,11 +32,11 @@ class RNDateRangePickerDemo extends React.Component {
 
   _handleOnSelected = (startDate, endDate) => {
 
-  }
+  };
 
   _handleOnClose = (startDate, endDate) => {
 
-  }
+  };
 
   render() {
     return (
